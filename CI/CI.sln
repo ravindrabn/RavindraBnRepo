@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CI Exmaple", "CI Exmaple", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsOperations", "..\MathsOperations\MathsOperations.csproj", "{FF63B510-DAAD-4E6E-9AA1-5DB4A1E0BD75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTEST", "..\CalculatorTEST\CalculatorTEST.csproj", "{F1262180-F622-4729-A2EA-333BA8EBADD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{FF63B510-DAAD-4E6E-9AA1-5DB4A1E0BD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF63B510-DAAD-4E6E-9AA1-5DB4A1E0BD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF63B510-DAAD-4E6E-9AA1-5DB4A1E0BD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1262180-F622-4729-A2EA-333BA8EBADD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1262180-F622-4729-A2EA-333BA8EBADD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1262180-F622-4729-A2EA-333BA8EBADD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1262180-F622-4729-A2EA-333BA8EBADD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A7F5F316-5399-4AB3-BB46-7FBA54991054} = {EDEB6B1C-CA1D-4A69-B63D-00ACB0C67AD0}
 		{FF63B510-DAAD-4E6E-9AA1-5DB4A1E0BD75} = {EDEB6B1C-CA1D-4A69-B63D-00ACB0C67AD0}
+		{F1262180-F622-4729-A2EA-333BA8EBADD3} = {EDEB6B1C-CA1D-4A69-B63D-00ACB0C67AD0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5EF5EF8C-55F2-49FC-AA2A-61062F9AFF0B}
