@@ -19,5 +19,6 @@ namespace CalculatorTEST
             int res = Calculator.Addition(20, 10);
             Assert.AreEqual(10, res);
         }
+
     }
 }
