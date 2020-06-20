@@ -18,10 +18,8 @@ namespace MathsOperations
         public static int Multiply (int a, int b)
         {
             return a * b;
-            
-
         }
-        public static int ivision(int a, int b)
+        public static int Division(int a, int b)
         {
             return a / b;
         }
