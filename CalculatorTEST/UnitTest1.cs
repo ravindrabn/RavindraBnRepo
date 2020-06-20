@@ -16,7 +16,7 @@ namespace CalculatorTEST
         [TestMethod]
         public void SubtractionTest()
         {
-            int res = Calculator.Addition(20, 10);
+            int res = Calculator.Subtraction(20, 10);
             Assert.AreEqual(10, res);
         }
 
