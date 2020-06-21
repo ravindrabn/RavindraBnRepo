@@ -26,7 +26,7 @@ namespace MathsOperations
 
         public static int Square(int a)
         {
-            return a * a;
+            //return a * a;
         }
     }
 }
