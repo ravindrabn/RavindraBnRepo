@@ -24,5 +24,9 @@ namespace MathsOperations
             return a / b;
         }
 
+        public static int Square(int a)
+        {
+            return a * a;
+        }
     }
 }
