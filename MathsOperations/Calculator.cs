@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System ;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
@@ -28,7 +28,8 @@ namespace MathsOperations
         public static int Square(int a)
         {
             var res  = a * a;
-           // return res;
+            return res;
+
         }
     }
 }
