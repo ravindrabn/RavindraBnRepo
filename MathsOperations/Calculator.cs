@@ -9,7 +9,8 @@ namespace MathsOperations
     {
         public static int Addition(int a, int b)
         {
-            return a + b;
+            var res = a + b;
+            return res;
         }
         public static int Subtraction(int a, int b)
         {
@@ -18,13 +19,16 @@ namespace MathsOperations
         public static int Multiply (int a, int b)
         {
             return a * b;
-            
-
         }
-        public static int ivision(int a, int b)
+        public static int Division(int a, int b)
         {
             return a / b;
         }
 
+        public static int Square(int a)
+        {
+            var res  = a* a;
+            return res;
+        }
     }
 }
