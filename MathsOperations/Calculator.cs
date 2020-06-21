@@ -27,8 +27,8 @@ namespace MathsOperations
 
         public static int Square(int a)
         {
-            var res  = a* a;
-            return res;
+            var res  = a * a;
+           // return res;
         }
     }
 }
